@@ -1,0 +1,6 @@
+C:\Users\dcarroll\source\repos\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.exe.config
+C:\Users\dcarroll\source\repos\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.exe
+C:\Users\dcarroll\source\repos\Mod3_Lab1\Mod3_Lab1\bin\Debug\Mod3_Lab1.pdb
+C:\Users\dcarroll\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\dcarroll\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.exe
+C:\Users\dcarroll\source\repos\Mod3_Lab1\Mod3_Lab1\obj\Debug\Mod3_Lab1.pdb

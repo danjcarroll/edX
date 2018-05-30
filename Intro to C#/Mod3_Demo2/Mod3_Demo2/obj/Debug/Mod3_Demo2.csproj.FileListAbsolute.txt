@@ -1,0 +1,7 @@
+C:\Users\dcarroll\source\repos\Mod3_Demo2\Mod3_Demo2\bin\Debug\Mod3_Demo2.exe.config
+C:\Users\dcarroll\source\repos\Mod3_Demo2\Mod3_Demo2\bin\Debug\Mod3_Demo2.exe
+C:\Users\dcarroll\source\repos\Mod3_Demo2\Mod3_Demo2\bin\Debug\Mod3_Demo2.pdb
+C:\Users\dcarroll\source\repos\Mod3_Demo2\Mod3_Demo2\obj\Debug\Mod3_Demo2.csprojResolveAssemblyReference.cache
+C:\Users\dcarroll\source\repos\Mod3_Demo2\Mod3_Demo2\obj\Debug\Mod3_Demo2.csproj.CoreCompileInputs.cache
+C:\Users\dcarroll\source\repos\Mod3_Demo2\Mod3_Demo2\obj\Debug\Mod3_Demo2.exe
+C:\Users\dcarroll\source\repos\Mod3_Demo2\Mod3_Demo2\obj\Debug\Mod3_Demo2.pdb

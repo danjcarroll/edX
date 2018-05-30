@@ -1,0 +1,6 @@
+C:\Users\dcarroll\source\repos\Mod2_CodeChallenge\Mod2_CodeChallenge\bin\Debug\Mod2_CodeChallenge.exe.config
+C:\Users\dcarroll\source\repos\Mod2_CodeChallenge\Mod2_CodeChallenge\bin\Debug\Mod2_CodeChallenge.exe
+C:\Users\dcarroll\source\repos\Mod2_CodeChallenge\Mod2_CodeChallenge\bin\Debug\Mod2_CodeChallenge.pdb
+C:\Users\dcarroll\source\repos\Mod2_CodeChallenge\Mod2_CodeChallenge\obj\Debug\Mod2_CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dcarroll\source\repos\Mod2_CodeChallenge\Mod2_CodeChallenge\obj\Debug\Mod2_CodeChallenge.exe
+C:\Users\dcarroll\source\repos\Mod2_CodeChallenge\Mod2_CodeChallenge\obj\Debug\Mod2_CodeChallenge.pdb

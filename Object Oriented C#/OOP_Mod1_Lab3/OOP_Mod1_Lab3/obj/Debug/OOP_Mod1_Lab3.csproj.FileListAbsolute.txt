@@ -1,0 +1,6 @@
+C:\Users\dcarroll\source\repos\OOP_Mod1_Lab3\OOP_Mod1_Lab3\bin\Debug\OOP_Mod1_Lab3.exe.config
+C:\Users\dcarroll\source\repos\OOP_Mod1_Lab3\OOP_Mod1_Lab3\bin\Debug\OOP_Mod1_Lab3.exe
+C:\Users\dcarroll\source\repos\OOP_Mod1_Lab3\OOP_Mod1_Lab3\bin\Debug\OOP_Mod1_Lab3.pdb
+C:\Users\dcarroll\source\repos\OOP_Mod1_Lab3\OOP_Mod1_Lab3\obj\Debug\OOP_Mod1_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\dcarroll\source\repos\OOP_Mod1_Lab3\OOP_Mod1_Lab3\obj\Debug\OOP_Mod1_Lab3.exe
+C:\Users\dcarroll\source\repos\OOP_Mod1_Lab3\OOP_Mod1_Lab3\obj\Debug\OOP_Mod1_Lab3.pdb

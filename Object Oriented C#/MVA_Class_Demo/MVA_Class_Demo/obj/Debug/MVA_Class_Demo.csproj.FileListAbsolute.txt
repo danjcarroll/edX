@@ -1,0 +1,7 @@
+C:\Users\dcarroll\source\repos\MVA_Class_Demo\MVA_Class_Demo\bin\Debug\MVA_Class_Demo.exe.config
+C:\Users\dcarroll\source\repos\MVA_Class_Demo\MVA_Class_Demo\bin\Debug\MVA_Class_Demo.exe
+C:\Users\dcarroll\source\repos\MVA_Class_Demo\MVA_Class_Demo\bin\Debug\MVA_Class_Demo.pdb
+C:\Users\dcarroll\source\repos\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.csprojResolveAssemblyReference.cache
+C:\Users\dcarroll\source\repos\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.csproj.CoreCompileInputs.cache
+C:\Users\dcarroll\source\repos\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.exe
+C:\Users\dcarroll\source\repos\MVA_Class_Demo\MVA_Class_Demo\obj\Debug\MVA_Class_Demo.pdb

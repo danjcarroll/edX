@@ -1,0 +1,6 @@
+C:\Users\dcarroll\source\repos\Mod2_Lab2\Mod2_Lab2\obj\Debug\Mod2_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\dcarroll\source\repos\Mod2_Lab2\Mod2_Lab2\bin\Debug\Mod2_Lab2.exe.config
+C:\Users\dcarroll\source\repos\Mod2_Lab2\Mod2_Lab2\bin\Debug\Mod2_Lab2.exe
+C:\Users\dcarroll\source\repos\Mod2_Lab2\Mod2_Lab2\bin\Debug\Mod2_Lab2.pdb
+C:\Users\dcarroll\source\repos\Mod2_Lab2\Mod2_Lab2\obj\Debug\Mod2_Lab2.exe
+C:\Users\dcarroll\source\repos\Mod2_Lab2\Mod2_Lab2\obj\Debug\Mod2_Lab2.pdb
